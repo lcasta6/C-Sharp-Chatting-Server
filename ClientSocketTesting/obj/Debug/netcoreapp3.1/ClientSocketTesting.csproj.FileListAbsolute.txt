@@ -1,0 +1,13 @@
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/bin/Debug/netcoreapp3.1/ClientSocketTesting
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/bin/Debug/netcoreapp3.1/ClientSocketTesting.deps.json
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/bin/Debug/netcoreapp3.1/ClientSocketTesting.runtimeconfig.json
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/bin/Debug/netcoreapp3.1/ClientSocketTesting.runtimeconfig.dev.json
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/bin/Debug/netcoreapp3.1/ClientSocketTesting.dll
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/bin/Debug/netcoreapp3.1/ClientSocketTesting.pdb
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.csprojAssemblyReference.cache
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.csproj.CoreCompileInputs.cache
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.AssemblyInfoInputs.cache
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.AssemblyInfo.cs
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.dll
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.pdb
+/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/Debug/netcoreapp3.1/ClientSocketTesting.genruntimeconfig.cache
