@@ -11,3 +11,16 @@
 /home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.dll
 /home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.pdb
 /home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.genruntimeconfig.cache
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/bin/Debug/netcoreapp3.1/ServerSocketTesting
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/bin/Debug/netcoreapp3.1/ServerSocketTesting.deps.json
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/bin/Debug/netcoreapp3.1/ServerSocketTesting.runtimeconfig.json
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/bin/Debug/netcoreapp3.1/ServerSocketTesting.runtimeconfig.dev.json
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/bin/Debug/netcoreapp3.1/ServerSocketTesting.dll
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/bin/Debug/netcoreapp3.1/ServerSocketTesting.pdb
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.csprojAssemblyReference.cache
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.csproj.CoreCompileInputs.cache
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.AssemblyInfoInputs.cache
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.AssemblyInfo.cs
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.dll
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.pdb
+/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/Debug/netcoreapp3.1/ServerSocketTesting.genruntimeconfig.cache

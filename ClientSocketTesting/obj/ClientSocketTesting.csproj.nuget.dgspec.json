@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/ClientSocketTesting.csproj": {}
+    "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ClientSocketTesting/ClientSocketTesting.csproj": {}
   },
   "projects": {
-    "/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/ClientSocketTesting.csproj": {
+    "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ClientSocketTesting/ClientSocketTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/ClientSocketTesting.csproj",
+        "projectUniqueName": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ClientSocketTesting/ClientSocketTesting.csproj",
         "projectName": "ClientSocketTesting",
-        "projectPath": "/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/ClientSocketTesting.csproj",
+        "projectPath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ClientSocketTesting/ClientSocketTesting.csproj",
         "packagesPath": "/home/luis/.nuget/packages/",
-        "outputPath": "/home/luis/Dropbox/Self Projects/Tanks/ClientSocketTesting/obj/",
+        "outputPath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ClientSocketTesting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luis/.nuget/NuGet/NuGet.Config"

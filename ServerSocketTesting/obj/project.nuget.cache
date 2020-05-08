@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "708CaQTi0dp7lxxmMia8yhrUEtbc70a2eBJrc1JC2o1bydP5kzw2Ar/G0+en40EPS/oYA35tAJZZuKbW4BN0HQ==",
+  "dgSpecHash": "n0RkOi/yUGAboDEzbbtwYODEgd0E+tJChny2SqSE9q9Fs1HUBsITllwq8TkwemocqeOs9mRmQgmiiKCuii+vog==",
   "success": true,
-  "projectFilePath": "/home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/ServerSocketTesting.csproj",
+  "projectFilePath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/ServerSocketTesting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

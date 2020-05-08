@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/ServerSocketTesting.csproj",
+    "projectUniqueName": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/ServerSocketTesting.csproj",
     "projectName": "ServerSocketTesting",
-    "projectPath": "/home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/ServerSocketTesting.csproj",
-    "outputPath": "/home/luis/Dropbox/Self Projects/Tanks/ServerSocketTesting/obj/",
+    "projectPath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/ServerSocketTesting.csproj",
+    "outputPath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/ServerSocketTesting/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

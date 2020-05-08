@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Runtime.InteropServices;
@@ -31,8 +32,11 @@ namespace ServerSocketTesting
              class, I am unsure of better options than this as of now*/
             private static int _counter;
             private static Action<String> _localCall;
+            
             private static TcpListener _localServer;
+            
             private static List<TcpClient> clients = new List<TcpClient>();
+            private static byte[] buffer;
 
             public static void StartServer(TcpListener serverSocket, Action<String> inCall)
             {
@@ -40,6 +44,8 @@ namespace ServerSocketTesting
                  The server will start taking in clients in the "startGame()" method*/
                 _localServer = serverSocket;
                 _localServer.Start();
+                
+                buffer = new byte[100025];
                 
                 _localCall = inCall;
                 _localCall("The server has started, waiting for clients.");
@@ -60,7 +66,26 @@ namespace ServerSocketTesting
                     /*Let all the Clients know that someone new joined*/
                     _localCall("New Client Connected #"+_counter);
 
-                    /*Start a new Client Thread*/
+                    try
+                    {
+                        /*Get Initial message from the client*/
+                        NetworkStream inStream = clientSocket.GetStream();
+                        inStream.Read(buffer, 0, 10025);
+                        Console.WriteLine(clientSocket.ReceiveBufferSize);
+                        string inMessage = System.Text.Encoding.ASCII.GetString(buffer);
+
+                        _localCall(inMessage);
+                        inStream.Flush();
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e);
+                        throw;
+                    }
+                    
+                    /*Have this client run on it's own threat*/
+
+
                 }
             }
             
