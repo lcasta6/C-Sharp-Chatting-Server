@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xs6O6fZ9CshssKZ3hQlWYlbHF42AQFr47ZZpob19biCW80XQLoj0b8R36SyqMJ6gv9qEagiNa/lCB4SShP90DA==",
+  "dgSpecHash": "PIY83vnRU7XcwBGuS4pBZnN2jfnBQ7a627FlJQeEx1R/x6CtImdZk1IPcZOiYJDvrXz0FRHLthwzJJjqnzUSpQ==",
   "success": true,
-  "projectFilePath": "/home/luis/Desktop/Sockets/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/Client/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

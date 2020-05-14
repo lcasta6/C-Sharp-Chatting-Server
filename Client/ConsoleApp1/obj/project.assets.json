@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luis/Desktop/Sockets/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/Client/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/luis/Desktop/Sockets/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/Client/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/luis/.nuget/packages/",
-      "outputPath": "/home/luis/Desktop/Sockets/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/home/luis/Dropbox/Self Projects/C-Sharp Chatting Server/Client/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/luis/.nuget/NuGet/NuGet.Config"
